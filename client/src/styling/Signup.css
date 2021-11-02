@@ -1,0 +1,29 @@
+/* .register-form{
+  margin-top:6%;
+  display:flex;
+  justify-content: center;
+  align-items: center;
+} */
+
+/* input:focus{
+  outline:0;
+border:10px solid black;
+} */
+/* input:focus {
+  color: green;
+} */
+.btn{
+  color:white;
+  border: 1px solid rgb(197 17 98);
+}
+.btn :hover{
+  cursor:pointer;
+  color:white;
+}
+
+.error-message{
+  color:red;
+}
+.hide-message{
+  display:none;
+}

@@ -1,0 +1,20 @@
+
+
+
+.buttons{
+    justify-content:space-evenly;
+    align-items:center;
+}
+
+.btn{
+   color: black;
+}
+.col-7{
+    text-align: center;
+}
+
+@media only screen and (max-width: 600px) {
+    .col-7{
+        display:none;
+    }
+  }
